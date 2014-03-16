@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-Algorithms
+codes for algorithm problems
